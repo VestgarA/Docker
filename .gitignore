@@ -43,4 +43,9 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-!db-api.jar
+
+  !db-api.jar
+  .build.gradle
+  .gradlew
+  .gradlew.bat
+  .settings.gradle
