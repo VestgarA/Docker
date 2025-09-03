@@ -1,1 +1,0 @@
-![solarized palette](C:\Users\sid06\IdeaProjects\Docker/Screenshot_2.png)
