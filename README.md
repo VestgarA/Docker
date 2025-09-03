@@ -1,0 +1,1 @@
+![Скриншот ответа](https://disk.yandex.ru/i/Gf_SPPDoiR79nA)
