@@ -44,8 +44,11 @@ out/
 !**/src/main/**
 !**/src/test/**
 
-  !db-api.jar
-  .build.gradle
-  .gradlew
-  .gradlew.bat
-  .settings.gradle
+!db-api.jar
+
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+gradle
+/data
